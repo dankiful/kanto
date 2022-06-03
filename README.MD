@@ -7,7 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/ma
 ```
 
 ## Developer
-~ [dank#6969/Danky#1337] (Script Developer)
+ dank#6969/Danky#1337 [🛠 Script Developer]
 
 
 
