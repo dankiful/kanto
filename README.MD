@@ -13,4 +13,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/ma
 
 
 ## Support
-If you need support for the script or want to contact the developer join the discord server [here](https://discord.gg/kDUeZezVeA)
+If you need support for the script or want to contact the developer join the discord server [here](https://discord.gg/WBVYFZRTmk)
