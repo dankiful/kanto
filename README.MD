@@ -3,7 +3,7 @@ brawl 2 roblox script with more game support coming soon
 
 ## Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dankiful/kanto/main/main.lua"))();
 ```
 
 ## Developer
