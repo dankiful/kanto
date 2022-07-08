@@ -4,15 +4,17 @@
 @everyone 
 ```markdown
 # Brawl 2
-  + Added icons
-  * Made kill-aura way faster. Doesn't depend on FPS now.
-  - Removed target strafe.
+ + Added Auto-Block
+ * Organized the UI a bit.
+
 
 # Hard Time
-  + "Hard Time" game support [https://www.roblox.com/games/5807159768/Hard-Time]
- 
-# Kanto Discord Bot
-+ There are now new buttons that allow you to see the features for brawl 2, or hard time. (use the .getscript command or use .features)
+  + Auto-Buy Section.
+  + More TPs.
+  - Anti-Cheat bypass (I made a better one.)
+  + ESP Now contains information about the players. If a player has armor on, their health will be (150/150) instead of (100/100). also may be laggy
+# Universal
++ You can now see other users when using Kanto.
 ```
 
 
