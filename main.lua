@@ -9,4 +9,4 @@ Notification.WallNotification("Kanto", "New script has been copied to your clipb
     },
 })
 
-setclipboard("loadstring(game:HttpGet('https://scripts.luawl.com/11262/kanto.lua'))()")
+setclipboard("loadstring(game:HttpGet(string.reverse('aul.otnak/26211/moc.lwaul.stpircs//:sptth')))()")
