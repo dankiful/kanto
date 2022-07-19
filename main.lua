@@ -1,6 +1,6 @@
 local Notification = loadstring(game:HttpGet("https://api.irisapp.ca/Scripts/IrisBetterNotifications.lua"))()
 getgenv()["IrisAd"] = true
-Notification.WallNotification("Kanto", "New script has been copied to your clipboard, Press CTRL + V", {
+Notification.WallNotification("Kanto", "New script has been copied to your clipboard, Paste the new script into your executor.", {
     MainSettings = {
         Orientation = "Left",
         VisibleSize = UDim2.new(0.5, 0, 0.5, 0);
